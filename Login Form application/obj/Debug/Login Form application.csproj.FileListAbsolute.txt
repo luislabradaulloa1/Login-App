@@ -1,0 +1,22 @@
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\bin\Debug\Login Form application.exe.config
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\bin\Debug\Login Form application.exe
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\bin\Debug\Login Form application.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.AssemblyReference.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form1.resources
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login_Form_application.Properties.Resources.resources
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.GenerateResource.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.CoreCompileInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login Form application.exe
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login Form application.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\Login Form application\Login Form application\obj\Debug\Login_Form_application.MenuForm.resources
+C:\Users\luisl\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.exe.config
+C:\Users\luisl\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.exe
+C:\Users\luisl\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.pdb
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.AssemblyReference.cache
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form1.resources
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.MenuForm.resources
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Properties.Resources.resources
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.GenerateResource.cache
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.CoreCompileInputs.cache
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.exe
+C:\Users\luisl\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.pdb
